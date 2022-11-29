@@ -1,0 +1,7 @@
+## academics
+
+academics
+
+#### License
+
+MIT
