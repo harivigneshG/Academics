@@ -4,4 +4,4 @@ academics
 
 #### License
 
-MIT
+MIT# Academics
