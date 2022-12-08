@@ -7,3 +7,4 @@ academics
 MIT# Academics
 # Academics
 # Academics
+# frappe_amrita
